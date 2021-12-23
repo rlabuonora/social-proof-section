@@ -127,10 +127,22 @@ h1 {
     min-height: 100%;
     display: flex;
     flex-wrap: wrap;
+    text-align: left;
+    padding: 2em;
   }
 
   .hero, .reviews {
     flex: 1 1 50%;
+    padding-bottom: 1em;
+  }
+
+  .hero h1 {
+    padding: 0;
+    width: 60%;
+  }
+
+  .hero .tagline {
+    width: 80%;
   }
 
   .testimonials {
