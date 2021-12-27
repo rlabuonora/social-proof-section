@@ -17,7 +17,7 @@ Users should be able to:
 ### Links
 
 - [Solution](https://github.com/rlabuonora/social-proof-section)
-- [Live Site](https://social-proof-section-rlabuonora.netlify.app/)
+- [Live Site](https://frontend-mentor-social-proof2.netlify.app/)
 
 ## My process
 
